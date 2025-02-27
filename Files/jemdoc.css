@@ -269,15 +269,15 @@ ul {
 }
 
 ul li::marker {
-  font-size: 25px;
+  font-size: 22px;
 }
 
 ul ul li::marker {
-  font-size: 25px;
+  font-size: 22px;
 }
 
 ul ul ul li::marker {
-  font-size: 25px;
+  font-size: 22px;
 }
 
 p + ul, p + ol {
