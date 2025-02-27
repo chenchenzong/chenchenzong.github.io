@@ -270,7 +270,7 @@ ul {
 
 ul ul {
 	list-style-position: outside;
-	list-style-type: square;
+	list-style-type: circle;
 }
 
 p + ul, p + ol {
