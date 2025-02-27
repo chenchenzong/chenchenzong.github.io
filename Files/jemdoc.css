@@ -272,6 +272,14 @@ ul li::marker {
   font-size: 20px;
 }
 
+ul ul li::marker {
+  font-size: 20px;
+}
+
+ul ul ul li::marker {
+  font-size: 20px;
+}
+
 p + ul, p + ol {
 	margin-top: -0.5em;
 }
