@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted by ACL'24 Findings! :smile:
+One paper accepted by ACL'24 Findings!

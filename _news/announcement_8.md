@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted by ECCV'24 (CCF-B)! :smile:
+One paper accepted by ECCV'24 (CCF-B)! 

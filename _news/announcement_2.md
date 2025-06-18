@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We won the second place in the 1st Learning and Mining with Noisy Labels Challenge at IJCAI 2022. :boom:
+We won the second place in the 1st Learning and Mining with Noisy Labels Challenge at IJCAI 2022. 
