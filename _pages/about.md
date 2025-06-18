@@ -30,7 +30,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am Chen-Chen Zong, a Ph.D. student at [College of Computer Science and Technology](https://cs.nuaa.edu.cn/) in [Nanjing University of Aeronautics and Astronautics (NUAA)](https://www.nuaa.edu.cn/), advised by [Prof. Sheng-Jun Huang](https://parnec.nuaa.edu.cn/huangsj/). 
 
-Prior to my Ph.D. endeavor, I obtained my Bachelor's degree in 2021 at [Nanjing University of Aeronautics and Astronautics (NUAA)](https://www.nuaa.edu.cn/). I was initially enrolled in the Master's program and later transitioned to a Ph.D. program via an integrated M.S.-Ph.D. track in April 2023. I have been fortunate to receive consistent guidance from Prof. [Prof. Sheng-Jun Huang](https://parnec.nuaa.edu.cn/huangsj/) since 2019.
+Prior to my Ph.D. endeavor, I obtained my Bachelor's degree in 2021 at [Nanjing University of Aeronautics and Astronautics (NUAA)](https://www.nuaa.edu.cn/). I was initially enrolled in the Master's program and later transitioned to a Ph.D. program via an integrated M.S.-Ph.D. track in April 2023. I have been fortunate to receive consistent guidance from [Prof. Sheng-Jun Huang](https://parnec.nuaa.edu.cn/huangsj/) since 2019.
 
 
 <!-- <span style="color: blue;">**Research Interest**</span> -->
