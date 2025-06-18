@@ -17,15 +17,15 @@ Organize your courses by years, topics, or universities, however you like! -->
  <li><strong>Teaching Assistant</strong></li>
   <ul>
   <li>Machine Learning Integrated Course Project (Undergraduate Course), Spring 2025</li>
-  <li>Artificial Intelligence Integrated Course Project (Undergraduate Course), Fall 2024, [NUAA](https://www.nuaa.edu.cn/)</li>
-  <li>Machine Learning (Graduate Course), Fall 2024, [NUAA](https://www.nuaa.edu.cn/)</li>
-  <li>Machine Learning (Undergraduate Course), Spring 2024, [NUAA](https://www.nuaa.edu.cn/)</li>
-  <li>Machine Learning Integrated Course Project (Undergraduate Course), Spring 2024, [NUAA](https://www.nuaa.edu.cn/)</li>
-  <li>Artificial Intelligence Integrated Course Project (Undergraduate Course), Fall 2023, [NUAA](https://www.nuaa.edu.cn/)</li>
-  <li>Machine Learning (Graduate Course), Fall 2023, [NUAA](https://www.nuaa.edu.cn/)</li>
-  <li>Artificial Intelligence Integrated Course Project (Undergraduate Course), Fall 2022, [NUAA](https://www.nuaa.edu.cn/)</li>
-  <li>Machine Learning (Undergraduate Course), Spring 2021, [NUAA](https://www.nuaa.edu.cn/)</li>
-  <li>Machine Learning Integrated Course Project (Undergraduate Course), Spring 2021, [NUAA](https://www.nuaa.edu.cn/)</li>
+  <li>Artificial Intelligence Integrated Course Project (Undergraduate Course), Fall 2024</li>
+  <li>Machine Learning (Graduate Course), Fall 2024</li>
+  <li>Machine Learning (Undergraduate Course), Spring 2024</li>
+  <li>Machine Learning Integrated Course Project (Undergraduate Course), Spring 2024</li>
+  <li>Artificial Intelligence Integrated Course Project (Undergraduate Course), Fall 2023</li>
+  <li>Machine Learning (Graduate Course), Fall 2023</li>
+  <li>Artificial Intelligence Integrated Course Project (Undergraduate Course), Fall 2022</li>
+  <li>Machine Learning (Undergraduate Course), Spring 2021</li>
+  <li>Machine Learning Integrated Course Project (Undergraduate Course), Spring 2021</li>
   </ul>
  <li><strong>Reviewer</strong></li>
   <ul>
