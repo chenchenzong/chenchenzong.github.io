@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper was accepted by IJCAI'25 (CCF-A)! 
+One paper was accepted by IJCAI'25 (CCF-A).
