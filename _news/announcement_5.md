@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted by ICME'24 (CCF-B)! 
+One paper was accepted by ICME'24 (CCF-B)! 

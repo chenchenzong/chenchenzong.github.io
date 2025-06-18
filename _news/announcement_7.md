@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted by KDD'24 (CCF-A)! 
+One paper was accepted by KDD'24 (CCF-A)! 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted by ICASSP'25 (CCF-B)! 
+One paper was accepted by ICASSP'25 (CCF-B)! 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted by CVPR'25 (CCF-A)! 
+One paper was accepted by CVPR'25 (CCF-A)! 
