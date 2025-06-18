@@ -34,9 +34,9 @@ Organize your courses by years, topics, or universities, however you like! -->
   </ul>
 <li><strong>Honors & Awards</strong></li>
   <ul>
-  <li>Silver Award of the 7th China International College Students' "Internet+" Innovation and Entrepreneurship Competition (2/5)</li>
+  <li>Silver Award of the 7th China International College Students' "Internet+" Innovation and Entrepreneurship Competition</li>
   <li>First Prize of the 11th "China Software Cup"</li>
-  <li>First Prize of the 7th Jiangsu province College Students' "Internet+" Innovation and Entrepreneurship Competition (5/5)</li>
+  <li>First Prize of the 7th Jiangsu province College Students' "Internet+" Innovation and Entrepreneurship Competition</li>
   <li>First Prize of Jiangsu Higher Mathematics Competition</li>
   <li>Suzhou Industrial Park Scholarship</li>
   </ul>

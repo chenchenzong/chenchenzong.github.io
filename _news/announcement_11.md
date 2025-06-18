@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-04-29 12:00:00-0400
+date: 2025-03-10 12:00:00-0400
 inline: true
 related_posts: false
 ---
 
-One paper accepted by IJCAI'25 (CCF-A)! :smile:
+One paper accepted by TCSVT'25 (CCF-B)! :smile:

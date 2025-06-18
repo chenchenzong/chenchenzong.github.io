@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-03-10 12:00:00-0400
+date: 2025-02-27 12:00:00-0400
 inline: true
 related_posts: false
 ---
 
-One paper accepted by TCSVT'25 (CCF-B)! :smile:
+One paper accepted by CVPR'25 (CCF-A)! :smile:
