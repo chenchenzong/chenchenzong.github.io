@@ -9,9 +9,10 @@ profile:
   image: prof_pic.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Room 909, Building No.1</p>
-    <p>29 Jiangjun Road, Jiangning District</p>
-    <p>Nanjing 211106, P.R.China</p>
+    <p>Room 909, Building 1</p>
+    <p>No. 29 Jiangjun Road</p>
+    <p>Jiangning District</p>
+    <p>Nanjing 211106, China</p>
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
