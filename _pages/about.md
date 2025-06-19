@@ -41,6 +41,6 @@ Prior to my Ph.D. endeavor, I obtained my Bachelor's degree in 2021 at [Nanjing 
 <!-- <span style="color: blue;">**Research Interest**</span> -->
 <span>**Research Interest**</span>
 
-My research interests primarily lie in weakly supervised learning in complex and open environments. I am currently particularly interested in active learning and learning with noisy labels under open-set or federated learning settings.
+My research interests lie primarily in weakly supervised learning under complex and open-world settings. Currently, I am particularly interested in active learning and noisy label learning in both open-set and federated learning scenarios. In addition, I closely follow topics such as uncertainty quantification and knowledge distillation.
 
-I am always open to research collaborations! If you are interested, feel free to reach out to me via email.
+I am always open to research collaborations. If you are interested, feel free to reach out to me via email.
