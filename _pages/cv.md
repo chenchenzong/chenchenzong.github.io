@@ -6,3 +6,5 @@ nav: true
 nav_order: 7
 cv_pdf: resume.pdf
 ---
+
+My CV is linked [here](/assets/pdf/resume.pdf).
