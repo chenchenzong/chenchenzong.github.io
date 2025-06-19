@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One **collaborative** paper was accepted by **ACL'24 Findings**.
+One collaborative paper was accepted by ACL'24 Findings.

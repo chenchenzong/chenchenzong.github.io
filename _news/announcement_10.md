@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One **first-author** paper was accepted by **CVPR'25 (CCF-A)**.
+One first-author paper was accepted by CVPR'25 (CCF-A).

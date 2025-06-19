@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One **collaborative** paper was accepted by **ICCV'23 (CCF-A)**.
+One collaborative paper was accepted by ICCV'23 (CCF-A).

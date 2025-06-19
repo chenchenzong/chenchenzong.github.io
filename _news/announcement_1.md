@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One **student-first-author** paper was accepted by **IJCAI'21 (CCF-A)**.
+One student-first-author paper was accepted by IJCAI'21 (CCF-A).

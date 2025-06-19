@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One **co-first-author paper** paper was accepted by **ICME'24 (CCF-B)**.
+One co-first-author paper paper was accepted by ICME'24 (CCF-B).
