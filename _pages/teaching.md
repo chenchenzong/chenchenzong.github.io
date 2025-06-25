@@ -29,7 +29,9 @@ Organize your courses by years, topics, or universities, however you like! -->
   </ul>
  <li><strong>Reviewer</strong></li>
   <ul>
-  <li>Conference: ICLR-25, CVPR-25, NeurIPS-25, IJCAI-25/24, KDD-25, MM-25, ICME-25/24, ICASSP-25, IJCNN-25, WACV-26.</li>
+  <li>Conference'26: WACV'26.</li>
+  <li>Conference'25: ICLR'25, CVPR'25, NeurIPS'25, IJCAI'25, KDD'25, MM'25, ICME'25, ICASSP'25, IJCNN'25.</li>
+  <li>Conference'24: IJCAI'24, ICME'24.</li>
   <li>Journal: Frontiers of Computer Science</li>
   </ul>
 <li><strong>Honors & Awards</strong></li>
