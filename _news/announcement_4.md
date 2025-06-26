@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One first-author paper was accepted by AAAI'24 (CCF-A).
+One first-author paper was accepted by AAAI'24 (CCF-A, Oral).
