@@ -29,13 +29,14 @@ Organize your courses by years, topics, or universities, however you like! -->
   </ul>
  <li><strong>Conference Reviewer</strong></li>
   <ul>
-  <li>ICLR'25, NeurIPS'25, CVPR'25, KDD'25, IJCAI'25/24, MM'25.</li>
+  <li>ICLR'25, NeurIPS'25, CVPR'25.</li>
+  <li>KDD'25, IJCAI'25/24, MM'25.</li>
   <li>ICME'25/24, ICASSP'25, IJCNN'25, WACV'26.</li>
   </ul>
  <li><strong>Journal Reviewer</strong></li>
   <ul>
-  <li>IEEE Transactions on Pattern Analysis and Machine Intelligence.</li>
-  <li>Frontiers of Computer Science.</li>
+  <li>IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI).</li>
+  <li>Frontiers of Computer Science (FCS).</li>
   </ul>
 <li><strong>Honors & Awards</strong></li>
   <ul>
