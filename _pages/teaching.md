@@ -35,8 +35,8 @@ Organize your courses by years, topics, or universities, however you like! -->
   </ul>
  <li><strong>Journal Reviewer</strong></li>
   <ul>
-  <li>IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI).</li>
-  <li>Frontiers of Computer Science (FCS).</li>
+  <li>IEEE Transactions on Pattern Analysis and Machine Intelligence, T-PAMI.</li>
+  <li>Frontiers of Computer Science, FCS.</li>
   </ul>
 <li><strong>Honors & Awards</strong></li>
   <ul>
