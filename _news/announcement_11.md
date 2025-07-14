@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One first-author paper was accepted by TCSVT'25 (CCF-B, IF: 11.1).
+One first-author paper was accepted by T-CSVT'25 (CCF-B, IF: 11.1).
