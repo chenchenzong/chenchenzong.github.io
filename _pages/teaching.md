@@ -30,7 +30,7 @@ Organize your courses by years, topics, or universities, however you like! -->
  <li><strong>Conference Reviewer</strong></li>
   <ul>
   <li>ICLR'25, NeurIPS'25, CVPR'25.</li>
-  <li>KDD'25, IJCAI'25/24, MM'25.</li>
+  <li>AAAI'26, KDD'25, IJCAI'25/24, MM'25.</li>
   <li>ICME'25/24, ICASSP'25, IJCNN'25, WACV'26.</li>
   </ul>
  <li><strong>Journal Reviewer</strong></li>
