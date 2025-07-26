@@ -27,7 +27,7 @@ Organize your courses by years, topics, or universities, however you like! -->
   <li>Machine Learning (Undergraduate Course), Spring 2021</li>
   <li>Machine Learning Integrated Course Project (Undergraduate Course), Spring 2021</li>
   </ul>
- <li><strong>Conference Reviewer</strong></li>
+ <li><strong>Conference Program Committee Member/Reviewer</strong></li>
   <ul>
   <li>ICLR'25, NeurIPS'25, CVPR'25.</li>
   <li>AAAI'26, KDD'25, IJCAI'25/24, MM'25.</li>
