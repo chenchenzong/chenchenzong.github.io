@@ -31,7 +31,7 @@ Organize your courses by years, topics, or universities, however you like! -->
   <ul>
   <li>ICLR'26/25, NeurIPS'25, CVPR'25, ICCV'25.</li>
   <li>AAAI'26, KDD'25, IJCAI'25/24, MM'25.</li>
-  <li>ICME'25/24, ICASSP'26/25, IJCNN'25, WACV'26.</li>
+  <li>WACV'26, PAKDD'26, ICASSP'26/25, ICME'25/24, IJCNN'25.</li>
   </ul>
  <li><strong>Journal Reviewer</strong></li>
   <ul>
