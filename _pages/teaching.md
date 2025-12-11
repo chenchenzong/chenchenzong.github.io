@@ -29,8 +29,8 @@ Organize your courses by years, topics, or universities, however you like! -->
   </ul>
  <li><strong>Conference Program Committee Member/Reviewer</strong></li>
   <ul>
-  <li>ICLR'26/25, NeurIPS'25, CVPR'25, ICCV'25.</li>
-  <li>AAAI'26, KDD'25, IJCAI'25/24, MM'25.</li>
+  <li>ICLR'26/25, NeurIPS'25, CVPR'26/25, ICCV'25.</li>
+  <li>AAAI'26, KDD'25, IJCAI'26/25/24, MM'25.</li>
   <li>WACV'26, PAKDD'26, ICASSP'26/25, ICME'25/24, IJCNN'25.</li>
   </ul>
  <li><strong>Journal Reviewer</strong></li>
@@ -41,6 +41,7 @@ Organize your courses by years, topics, or universities, however you like! -->
   </ul>
 <li><strong>Honors & Awards</strong></li>
   <ul>
+  <li>National Scholarship of China</li>
   <li>Silver Award of the 7th China International College Students' "Internet+" Innovation and Entrepreneurship Competition</li>
   <li>First Prize of the 11th "China Software Cup"</li>
   <li>First Prize of the 7th Jiangsu province College Students' "Internet+" Innovation and Entrepreneurship Competition</li>
