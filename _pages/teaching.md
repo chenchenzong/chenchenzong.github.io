@@ -29,7 +29,7 @@ Organize your courses by years, topics, or universities, however you like! -->
   </ul>
  <li><strong>Conference Program Committee Member/Reviewer</strong></li>
   <ul>
-  <li>ICLR'26/25, NeurIPS'25, CVPR'26/25, ICCV'25.</li>
+  <li>ICLR'26/25, NeurIPS'25, CVPR'26/25, ICCV'25, ECCV'26.</li>
   <li>AAAI'26, KDD'25, IJCAI'26/25/24, MM'25.</li>
   <li>WACV'26, PAKDD'26, ICASSP'26/25, ICME'26/25/24, IJCNN'26/25.</li>
   </ul>
