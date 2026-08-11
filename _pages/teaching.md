@@ -38,6 +38,7 @@ Organize your courses by years, topics, or universities, however you like! -->
   <ul>
   <li>IEEE Transactions on Pattern Analysis and Machine Intelligence, T-PAMI.</li>
   <li>IEEE Transactions on Circuits and Systems for Video Technology, T-CSVT.</li>
+  <li>IEEE Internet of Things Journal.</li>
   <li>Frontiers of Computer Science, FCS.</li>
   </ul>
 <li><strong>Honors & Awards</strong></li>
