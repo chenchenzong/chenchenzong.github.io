@@ -40,6 +40,7 @@ Organize your courses by years, topics, or universities, however you like! -->
   <li>IEEE Transactions on Circuits and Systems for Video Technology, T-CSVT.</li>
   <li>IEEE Internet of Things Journal.</li>
   <li>Frontiers of Computer Science, FCS.</li>
+  <li>Neurocomputing.</li>
   </ul>
 <li><strong>Honors & Awards</strong></li>
   <ul>
