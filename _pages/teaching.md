@@ -36,10 +36,12 @@ Organize your courses by years, topics, or universities, however you like! -->
   </ul>
  <li><strong>Journal Reviewer</strong></li>
   <ul>
-  <li>IEEE Transactions on Pattern Analysis and Machine Intelligence, T-PAMI.</li>
-  <li>IEEE Transactions on Circuits and Systems for Video Technology, T-CSVT.</li>
+  <li>IEEE Transactions on Pattern Analysis and Machine Intelligence.</li>
+  <li>IEEE Transactions on Circuits and Systems for Video Technology.</li>
   <li>IEEE Internet of Things Journal.</li>
-  <li>Frontiers of Computer Science, FCS.</li>
+  <li>Artificial Intelligence.</li>
+  <li>Knowledge-Based Systems.</li>
+  <li>Frontiers of Computer Science.</li>
   <li>Neurocomputing.</li>
   </ul>
 <li><strong>Honors & Awards</strong></li>
