@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One collaborative paper was accepted by T-CSVT’26 (CCF-B, IF: 10.8).
+One collaborative paper was accepted by TCSVT’26 (CCF-B, IF: 10.8).
