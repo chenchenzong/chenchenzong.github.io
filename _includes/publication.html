@@ -1,0 +1,15 @@
+<article class="publication">
+  <div class="publication-media">
+    <img src="{{ '/assets/img/publications/' | append: item.image | relative_url }}" alt="Preview for {{ item.title | escape }}" loading="lazy">
+  </div>
+  <div class="publication-body">
+    <h3>{{ item.title }}</h3>
+    <p class="authors">{{ item.authors | replace: 'Chen-Chen Zong', '<strong>Chen-Chen Zong</strong>' | replace: 'Chenchen Zong', '<strong>Chenchen Zong</strong>' }}</p>
+    <p class="venue">{{ item.venue }}, {{ item.year }}</p>
+    <p class="paper-links">
+      {% if item.pdf %}<a href="{{ item.pdf | escape }}">PDF</a>{% endif %}
+      {% if item.code %}<a href="{{ item.code | escape }}">Code</a>{% endif %}
+    </p>
+  </div>
+</article>
+

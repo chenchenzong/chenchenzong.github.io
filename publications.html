@@ -1,0 +1,25 @@
+---
+layout: default
+title: Publications
+permalink: /publications/
+description: Publications by Chen-Chen Zong.
+---
+<div class="publication-tools">
+  <label class="search-box">
+    <span class="sr-only">Filter publications</span>
+    <input id="publication-search" type="search" placeholder="Filter by title, author, venue, or year" autocomplete="off">
+  </label>
+</div>
+
+<div class="publication-list all-publications">
+  {% assign current_year = 0 %}
+  {% for item in site.data.publications %}
+    {% if item.year != current_year %}
+      {% assign current_year = item.year %}
+      <h2 class="year-heading">{{ current_year }}</h2>
+    {% endif %}
+    {% include publication.html item=item %}
+  {% endfor %}
+</div>
+<p class="empty-state" hidden>No publications match your search.</p>
+

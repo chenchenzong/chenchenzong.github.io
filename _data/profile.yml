@@ -1,0 +1,36 @@
+name: Chen-Chen Zong
+email: chencz@nuaa.edu.cn
+photo: /assets/img/profile.jpeg
+address:
+  - Room 909, Building 1
+  - No. 29 Jiangjun Road
+  - Jiangning District
+  - Nanjing 211106, China
+links:
+  - label: Email
+    url: mailto:chencz@nuaa.edu.cn
+  - label: Google Scholar
+    url: https://scholar.google.com/citations?user=h7FiyU8AAAAJ&hl=en
+  - label: GitHub
+    url: https://github.com/chenchenzong
+about:
+  - >-
+    I am Chen-Chen Zong, a Ph.D. student at the
+    <a href="https://cs.nuaa.edu.cn/">College of Computer Science and Technology</a>
+    in <a href="https://www.nuaa.edu.cn/">Nanjing University of Aeronautics and Astronautics (NUAA)</a>,
+    advised by <a href="https://parnec.nuaa.edu.cn/huangsj/">Prof. Sheng-Jun Huang</a>.
+  - >-
+    Prior to my Ph.D. endeavor, I obtained my Bachelor's degree in 2021 at
+    <a href="https://www.nuaa.edu.cn/">Nanjing University of Aeronautics and Astronautics (NUAA)</a>.
+    I was initially enrolled in the Master's program and later transitioned to a Ph.D. program via an
+    integrated M.S.-Ph.D. track in April 2023. I have been fortunate to receive consistent guidance from
+    <a href="https://parnec.nuaa.edu.cn/huangsj/">Prof. Sheng-Jun Huang</a> since 2019.
+research:
+  - >-
+    My research interests focus primarily on weakly supervised learning under complex and open-world settings.
+    Currently, I am especially interested in active learning and noisy label learning within both open-set and
+    federated learning scenarios. In addition, I closely follow topics such as uncertainty quantification and
+    knowledge distillation.
+  - >-
+    I am always open to research collaborations. If you are interested, feel free to reach out to me via email.
+

@@ -1,0 +1,12 @@
+<header class="site-header">
+  <div class="container nav-wrap">
+    <a class="site-name" href="{{ '/' | relative_url }}">{{ site.data.profile.name }}</a>
+    <nav aria-label="Primary navigation">
+      <a {% if page.url == '/' %}aria-current="page"{% endif %} href="{{ '/' | relative_url }}">About</a>
+      <a {% if page.url contains '/publications' %}aria-current="page"{% endif %} href="{{ '/publications/' | relative_url }}">Publications</a>
+      <a {% if page.url contains '/services' %}aria-current="page"{% endif %} href="{{ '/services/' | relative_url }}">Services &amp; Honors</a>
+      <button class="theme-toggle" type="button" aria-label="Switch color theme" title="Switch color theme">◐</button>
+    </nav>
+  </div>
+</header>
+

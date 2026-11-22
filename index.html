@@ -1,0 +1,47 @@
+---
+layout: default
+title:
+permalink: /
+---
+<section class="hero">
+  <div class="hero-copy">
+    <h1>{{ site.data.profile.name }}</h1>
+    <a class="email" href="mailto:{{ site.data.profile.email }}">{{ site.data.profile.email }}</a>
+    <div class="prose">
+      <h2>About Me</h2>
+      {% for paragraph in site.data.profile.about %}<p>{{ paragraph }}</p>{% endfor %}
+      <h2>Research Interests</h2>
+      {% for paragraph in site.data.profile.research %}<p>{{ paragraph }}</p>{% endfor %}
+    </div>
+  </div>
+  <aside class="profile-card">
+    <img src="{{ site.data.profile.photo | relative_url }}" alt="Portrait of {{ site.data.profile.name }}">
+    <address>{% for line in site.data.profile.address %}<span>{{ line }}</span>{% endfor %}</address>
+  </aside>
+</section>
+
+<section class="section-block" aria-labelledby="news-title">
+  <div class="section-heading">
+    <h2 id="news-title">News</h2>
+    <button class="quiet-button news-toggle" type="button" aria-expanded="false">Show all</button>
+  </div>
+  <ol class="news-list">
+    {% for item in site.data.news %}
+      <li{% if forloop.index > 7 %} class="news-extra" hidden{% endif %}>
+        <time datetime="{{ item.date }}">{{ item.date | date: '%b %d, %Y' }}</time>
+        <span>{{ item.text }}</span>
+      </li>
+    {% endfor %}
+  </ol>
+</section>
+
+<section class="section-block" aria-labelledby="selected-title">
+  <div class="section-heading">
+    <h2 id="selected-title">Selected Publications</h2>
+    <a href="{{ '/publications/' | relative_url }}">View all</a>
+  </div>
+  <div class="publication-list">
+    {% for item in site.data.publications %}{% if item.selected %}{% include publication.html item=item %}{% endif %}{% endfor %}
+  </div>
+</section>
+
