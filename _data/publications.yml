@@ -45,6 +45,11 @@
   image: cpnll.png
   pdf: https://ieeexplore.ieee.org/abstract/document/11464144
   code: https://github.com/YuqiChi1104/CP-NLL
+- year: 2026
+  title: "Large Language Model-Driven Natural Language Query Transformation Methods and Benchmark for Moving Objects Databases"
+  authors: Xieyang Wang, Jianqiu Xu, Mengyi Liu, Chenchen Zong, and Yunjun Gao
+  venue: Chinese Journal of Computers
+  image: llm-moving-object.png
 - year: 2025
   title: "Dual-Head Knowledge Distillation: Enhancing Logits Utilization with an Auxiliary Head"
   authors: Penghui Yang, Chen-Chen Zong, Sheng-Jun Huang, Lei Feng, and Bo An
